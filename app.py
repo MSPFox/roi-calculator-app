@@ -1,7 +1,7 @@
 import streamlit as st
 
 # App title
-st.title("HighPoint + Rewst ROI Calculator")
+st.title("HTG Automation ROI Calculator")
 
 st.markdown("### Input Your Data Below")
 
