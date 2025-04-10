@@ -36,5 +36,3 @@ st.write(f"**Estimated Annual Investment:** ${annual_investment:,.2f}")
 st.write(f"**ROI Percentage:** {roi_percentage:.1f}%")
 st.write(f"**Estimated Payback Period:** {payback_period:.1f} months")
 
-st.markdown("---")
-st.markdown("✅ Powered by HighPoint Technology Group + Rewst")
